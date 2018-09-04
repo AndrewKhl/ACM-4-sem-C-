@@ -1,0 +1,14 @@
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe.config
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.pdb
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csprojResolveAssemblyReference.cache
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csproj.CoreCompileInputs.cache
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.exe
+D:\ABC\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.pdb
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe.config
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.exe
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\bin\Debug\LabWorkABC1-3.pdb
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csprojResolveAssemblyReference.cache
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.csproj.CoreCompileInputs.cache
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.exe
+D:\ABC 4 сем\LabWorkABC1-3\LabWorkABC1-3\obj\Debug\LabWorkABC1-3.pdb
